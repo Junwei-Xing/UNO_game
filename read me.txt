@@ -1,0 +1,10 @@
+name: junwei xing
+
+virtual device: Nexus 5X API P
+android version: p
+
+1, when users select to draw one card, just click the drawone button
+
+2, when the cards of desk is empty, the cards of pile would refill within desk to continue this game.
+
+3, when someone wins this game, a toast would display the message to user, and then restart this game.
